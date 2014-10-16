@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ahp:home|Door43 (ahp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ahp|d43-ahp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ahp/archive/master.zip|d43-ahp.zip]]
+
+**Recent Changes**
+{{changes>ns = ahp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ahp|Ethnologue data]]
+
